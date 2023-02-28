@@ -1,0 +1,196 @@
+
+.one {
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 76), rgb(162, 174, 217));
+    height: 100%;
+    padding-top: 0%;
+    padding-bottom: 4.5%;
+
+}
+
+.upper {
+    margin-bottom: 20px;
+    margin-top: 175px;
+}
+
+.left {
+    height: 100%;
+    width : 47%;
+    display: inline-block;
+    padding-top: 1.5%;
+    margin-top: 2%;
+    
+}
+
+.right {
+    height: 100%;
+    width : 35%;
+    display: inline-block;
+    padding-top: 1.5%;
+    margin-top: 2%;
+    position: absolute;
+    right : 10%;
+}
+
+.border {
+    border: 2px solid ;
+    border-color: #010000;
+}
+
+a {
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.para1 {
+    font-size: 50px;
+    color : rgb(253, 255, 254);
+    padding-left: 5%;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.para2 {
+    font-size: 95px;
+    font-family:'Quicksand';
+    color : rgb(202, 230, 255);
+    margin-left: 160px;
+}
+
+img{
+    display: inline-block;
+    margin:3% 3% 3% 0px;
+    float: right;
+}
+
+.two {
+    background-color: #e5e5e5;
+    height: 100%;
+    text-align: left;
+    padding-top: 50px;
+    margin: 130px;
+    padding: 80px;
+    width : 90%;
+    box-shadow: 0px 0px 15px 5px  rgb(0 0 0 / 20%);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.two h3 {
+    font-size: 80px;
+    font-weight: lighter ;
+    color:#31296b;
+    font-family:Arial, Helvetica, sans-serif, cursive;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 1.35;
+}
+
+.para3 {
+    font-weight: 300px;
+    font-size: 70px;
+    line-height: 1.35;
+}
+
+.para4 {
+    color: #010000;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    font-weight:650;
+}
+
+.three {
+    background-color: #a7a7a7;
+    height: 800px;
+    text-align: left;
+    padding-top: 50px;
+    margin-top: 130px;
+    padding-bottom: 60px;
+    width : 100%;
+    box-shadow: 0px 0px 15px 5px  rgb(0 0 0 / 20%);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.three h3 {
+    font-size: 80px;
+    font-family:Arial, Helvetica, sans-serif, cursive;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    line-height: 1.35;
+}
+
+.three li {
+    margin-top: 15px;
+}
+
+.threeLeft {
+    font-family: "McLaren", cursive;
+    font-size: 38px;
+    margin: 1% 15%;
+    line-height: 1.35;
+    display: inline-block;
+}
+.threeright {
+    font-family: "McLaren", cursive;
+    font-size: 38px;
+    position: absolute;
+    right: 20%;
+    line-height: 1.35;
+    display: inline-block;
+
+
+}
+
+.para5 {
+    font-size: 55px;
+    font-weight: lighter;
+    color : rgb(0, 0, 0);
+    margin-left: 85px;
+    text-align: left;
+}
+
+input {
+    border: 0;
+    height : 50px;
+    margin : 25px;
+    width : 500px;
+    border-radius: 10px;
+    padding: 38px;
+    font-size: 35px;
+    display: block;
+    margin-left : 70px;
+}
+
+textarea {
+    border: 0;
+    height : 50px;
+    width : 500px;
+    border-radius: 10px;
+    padding: 38px;
+    font-size: 35px;
+    height : 250px;
+    width: 700px;
+    display: inline;
+    margin-left : 70px;
+}
+
+button {
+    background-color: #111511;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 26px;
+    margin: 30px 240px;
+  }
+
+  button:hover {
+    background-color: #0e0074;
+  }
